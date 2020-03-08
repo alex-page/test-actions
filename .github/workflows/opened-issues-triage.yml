@@ -11,5 +11,5 @@ jobs:
       - uses: alex-page/github-project-automation-plus@exact-name
         with:
           project: Backlog
-          column: Triage
+          column: To do
           repo-token: ${{ secrets.GH_PAT }}
