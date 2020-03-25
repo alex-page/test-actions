@@ -11,5 +11,5 @@ jobs:
       - uses: alex-page/github-project-automation-plus@v0.1.3
         with:
           project: Backlog
-          column: To do
+          column: In progress
           repo-token: ${{ secrets.GITHUB_TOKEN }}
