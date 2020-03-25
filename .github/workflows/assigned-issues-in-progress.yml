@@ -1,4 +1,4 @@
-name: Move assigned pull requests into In Progress
+name: Move assigned pull requests into "In progress"
 
 on:
   issues:
